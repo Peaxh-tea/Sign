@@ -7,6 +7,8 @@ public class Main{
         System.out.println(x);
         str = sign1.getLines();
         System.out.println(str);
+        str = sign1.getLines();
+        System.out.println(str);
         Sign sign2 = new Sign("ABCD", 10);
         x = sign2.numberOfLines();
         System.out.println(x);
